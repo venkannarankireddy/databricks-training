@@ -51,9 +51,6 @@ INSERT INTO Project (project_id, name, department_id) VALUES
 (7, 'Project Eta', 3);
 
 
--- Insert additional data into Department table (if needed)
--- No additional departments needed for this data set
-
 -- Insert additional data into Employee table to test edge cases for joins and nested queries
 INSERT INTO Employee (emp_id, name, age, salary, department_id, hire_date) VALUES
 (8, 'Frank White', 32, 48000.00, NULL, '2021-07-10'),  -- Employee without a department
