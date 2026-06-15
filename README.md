@@ -31,4 +31,30 @@ To gain practical knowledge in:
 * Databricks
 * GitHub
 
+## Skills Acquired
+
+### SQL
+- SELECT
+- WHERE
+- ORDER BY
+- GROUP BY
+- JOINS
+- Subqueries
+- Window Functions
+
+### Data Engineering
+- Data Modeling
+- Data Processing
+- ETL Concepts
+
+### Databricks
+- Workspace Navigation
+- SQL Warehouses
+- Notebooks
+- Query Execution
+
+### GitHub
+- Repository Management
+- Documentation
+
 
